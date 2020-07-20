@@ -23,7 +23,6 @@ class Me
         'phpstorm', 'vscode', 'GoLand', 'PyCharm', 
     ];
 
-    const CURRENT_FOCUS = 'https://github.com/yanwenwu/catch-admin';
-
     const COMPANY = 'BAIJIAYUN NanJing';
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=944491509&repo=github-readme-stats)]
 }
